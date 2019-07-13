@@ -1,2 +1,2 @@
 # xflow
-POC for using an experimental branch in gitflow
+POC for using an experimental branch in gitflow.
